@@ -40,3 +40,4 @@ class ActivityController extends GetxController {
     loadActivities();
   }
 }
+// ini activity conytroller ahahah//
