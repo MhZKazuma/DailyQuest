@@ -25,3 +25,4 @@ class ThemeController extends GetxController {
     _saveThemeToStorage(isDarkMode.value);
   }
 }
+// ini theme controller ahahah//
