@@ -24,3 +24,4 @@ class AppRoutes {
     GetPage(name: settings, page: () => SettingsScreen()),
   ];
 }
+//rute app
