@@ -70,3 +70,4 @@ class WeeklyBarChart extends StatelessWidget {
     );
   }
 }
+// ini weakly bar chart
