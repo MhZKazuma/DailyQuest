@@ -36,3 +36,4 @@ class AuthController extends GetxController {
     Get.offAllNamed(AppRoutes.login);
   }
 }
+// ini auth controller ahahah//
