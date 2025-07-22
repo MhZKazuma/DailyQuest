@@ -47,3 +47,4 @@ class ActivityCard extends StatelessWidget {
     );
   }
 }
+// anu iki activity card yo rek perek//
