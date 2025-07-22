@@ -74,3 +74,4 @@ class SupabaseService {
     return _client.storage.from(bucket).getPublicUrl(path);
   }
 }
+//supabase service
