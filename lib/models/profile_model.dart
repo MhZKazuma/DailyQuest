@@ -13,3 +13,4 @@ class Profile {
     );
   }
 }
+//profile model 
