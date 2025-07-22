@@ -35,3 +35,4 @@ class ActivityService {
     await _client.from('activities').delete().eq('id', id);
   }
 }
+//activity services
