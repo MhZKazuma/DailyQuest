@@ -9,3 +9,4 @@ class SupabaseConfig {
     );
   }
 }
+// ini supabase config ahahah//
