@@ -40,3 +40,4 @@ class AuthService {
     await supabase.auth.signOut();
   }
 }
+//auth service
